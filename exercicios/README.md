@@ -1,6 +1,6 @@
 # 🌱 Laços e Condições 
 Esta pasta contém os mini-desafios extras do Curso em Vídeo - Python
-Os exercícios aqui reforçam:
+# Os exercícios aqui reforçam:
 
 - Entrada e saída de dados
 - Tipos primitivos
